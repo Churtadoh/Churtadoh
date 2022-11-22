@@ -1,4 +1,4 @@
-<img width="100%" height="250px" src="https://www.canva.com/design/DAFSoB30OBU/m-yqtG4uvqv31bZZwvVY2A/view?utm_content=DAFSoB30OBU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img width="100%" height="250px" src="https://res.cloudinary.com/du2st58lj/image/upload/v1669076805/Camilo_Banner_wvu1qt.jpg">
 
 <h1>¡Hey there! 👋</h1>
 <h1>My name is Camilo Hurtado and I'm Full Stack Web Developer.</h1>

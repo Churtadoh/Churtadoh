@@ -4,8 +4,12 @@
 <h1>My name is Camilo Hurtado and I'm Full Stack Web Developer.</h1>
 
 
-<h2>Un poco sobre mi...💬</h2>
-<p>📢Soy Abogado desde 2017, trabajo en el Poder judicial de Argentina, especializándome en el derecho de la familia. Después de más de 4 años de experiencia, decidí hacer un cambio en mi carrera. En el 2021 me adentré en el mundo de la programación a través de cursos en distintas plataformas. Este aprendizaje autogestionado me preparó para luego poder dar un paso más y comenzar el bootcamp de Henry, en donde pude pasar por + 800hs de experiencia en programacion, tanto academica como en proyectos individuales y grupales.</p>
+<h2>A bit about me</h2>
+<p>📢I am a Full Stack Developer with an academic background in Engineering. Throughout my university and my years working as a mechanical engineering I felt a strong attraction towards programming, the projects that I enjoyed the most were those that included any programming related tasks. For this reason, after some years working as an engineer I decided to change my career path and focus on what I feel is my true passion, programming and the world of IT. 
+
+Thanks to Henry I now have all the necessary tools to be able to function in the world of programming, such as Node.js, React, Redux, SQL among other technologies.
+
+I strongly believe that my training in engineering gave me the tools to become an integrated human being, I'm very professional , love working with people and can connect easily with others, all this along with the fact that I am a natural problem solver with a calm and collected state of mind..</p>
 
 <h2>Tecnologias</h2>
 <p>Estas son algunas de las tecnologías con las que he trabajado hasta ahora, espero seguir aprendiendo más.</p>

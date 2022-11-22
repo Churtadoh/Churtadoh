@@ -35,20 +35,18 @@ I strongly believe that my training in engineering gave me the tools to become a
 <h4> Deploy: https://juira-market-place.vercel.app/ </h4>
 <h4> Repo: https://github.com/Churtadoh/PF-Henry-PT07G06-BACK </h4>
 <hr></hr>
-<h3> SPA Food </h3>
-<a href="https://github.com/MoyanoJuan/Part04---PI-FOODS"><img src="https://i.postimg.cc/136MT7yH/Capture.png" alt="im"></a>
-<a href="https://github.com/MoyanoJuan/Part04---PI-FOODS"><img src="https://i.postimg.cc/7PsBTTBg/Capture2.png" alt="im2"></a>
-<h4>Repo: https://github.com/MoyanoJuan/Part04---PI-FOODS </h4>
+<h3> Pokemon APP </h3>
+<a href="https://github.com/MoyanoJuan/Part04---PI-FOODS"><img src="https://res.cloudinary.com/du2st58lj/image/upload/v1669081838/Pokemon_tfyjqp.jpg" alt="im"></a>
+<h4>Repo: https://github.com/Churtadoh/PI-Pokemon-main </h4>
 
 <hr></hr>
 
 <h2> Portfolio </h2>
-<a hrfe="moyano-portfolio.vercel.app"><img src="https://i.postimg.cc/6qSS6xMg/Capture.png" alt="img"></a>
-<h4> Link: moyano-portfolio.vercel.app </h4>
+<h4> Link: https://churtadoh.github.io/portfolio/ </h4>
 
 <hr></hr>
 
 <h2>Contacto:</h2>
-📧 Email: juan.moyar@gmail.com 
+📧 Email: churtadoh92@gmail.com 
 <hr></hr>
-📝 Linkedin: https://www.linkedin.com/in/juanimoyano/
+📝 Linkedin: https://www.linkedin.com/in/camilo-hurtado-herrera-2962051b2/

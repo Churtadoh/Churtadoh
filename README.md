@@ -7,8 +7,6 @@
 <h2>A bit about me</h2>
 <p>📢I am a Full Stack Developer with an academic background in Engineering. Throughout my university and my years working as a mechanical engineering I felt a strong attraction towards programming, the projects that I enjoyed the most were those that included any programming related tasks. For this reason, after some years working as an engineer I decided to change my career path and focus on what I feel is my true passion, programming and the world of IT. 
 
-Thanks to Henry I now have all the necessary tools to be able to function in the world of programming, such as Node.js, React, Redux, SQL among other technologies.
-
 I strongly believe that my training in engineering gave me the tools to become an integrated human being, I'm very professional , love working with people and can connect easily with others, all this along with the fact that I am a natural problem solver with a calm and collected state of mind..</p>
 
 <h2>Technologies</h2>
